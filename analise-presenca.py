@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-import openpyxl
-print("Openpyxl está instalado e funcionando.")
+
+
 # Configuração da página
 st.set_page_config(layout="wide", page_title="Painel de Presença e Habilidades")
 
