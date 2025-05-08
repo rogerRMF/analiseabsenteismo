@@ -6,3 +6,4 @@ streamlit-javascript
 XlsxWriter
 openpyxl
 pytz
+numpy==1.26.4
